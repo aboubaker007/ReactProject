@@ -1,4 +1,4 @@
 import assets from "./assets";
-import { RestData, buttons } from "./dummy";
+import { RestData, buttons,CartList,favList } from "./dummy";
 
-export { assets, RestData, buttons };
+export { assets, RestData, buttons,CartList,favList };

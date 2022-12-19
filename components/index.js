@@ -1,3 +1,4 @@
 import FoodCard from "./FoodCard";
-
-export { FoodCard};
+import MenuBar from"./MenuBar";
+import PaymentCard from "./PaymentCard";
+export { FoodCard, MenuBar, PaymentCard};
